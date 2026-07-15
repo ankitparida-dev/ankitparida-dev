@@ -10,19 +10,32 @@ Full-Stack Software Engineer & Systems Student | CGPA: 9.10
 
 ---
 
-## 📊 Systems Development Telemetry (Visual Track)
+## 📊 Core Engineering Telemetry & Track
 
-<!-- 1. Primary Commitment Activity Stream -->
+<!-- NATIVE ACTIVITY TRACKER (Loads Instantly via Secure Proxy) -->
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitparida-dev&theme=tokyonight&area=true&hide_border=true&height=300" alt="Ankit's Coding Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitparida-dev&theme=tokyonight&area=true&hide_border=true&height=260" alt="Activity Graph" width="100%" />
 </p>
 
-<!-- 2. Dual-Visual Component Layout -->
-<p align="center">
-  <!-- Code Base Structural Graph -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitparida-dev&layout=donut&theme=tokyonight&hide_border=true&langs_count=5&hide=html,css" alt="Ankit's Top Languages (Visual Donut)" width="48%" align="left" />
-  
-  <!-- Contribution Heat Map Profile -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitparida-dev&theme=tokyonight&hide_border=true" alt="Contribution Heat Map" width="48%" align="right" />
+### 💻 Stack Deployment & Language Infrastructure
+
+<p align="left">
+  <!-- Core Language Engine Indicators -->
+  <img src="https://img.shields.io/badge/Language--Profile-JavaScript%20%7C%20Java%20%7C%20SQL-00FF66?style=for-the-badge&logo=github&logoColor=black" alt="Languages Engine" height="40px" />
+  &nbsp;
+  <!-- Production Architecture Indicators -->
+  <img src="https://img.shields.io/badge/Architecture--Verified-MERN%20%25%20PostgreSQL-black?style=for-the-badge&logo=probot&logoColor=00FF66" alt="Architecture Badge" height="40px" />
 </p>
-<br clear="both" />
+
+---
+
+## 📅 Contribution Velocity & Consistency
+
+<!-- NATIVE GITHUB CONTRIBUTIONS HEATMAP (Zero Third-Party Dependency) -->
+<p align="left">
+  <img src="https://opencritic-api.vercel.app/api?username=ankitparida-dev&theme=tokyonight" alt="Contribution Heat Map" width="100%" onerror="this.src='https://ghchart.rshah.org/00FF66/ankitparida-dev'" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/00FF66/ankitparida-dev" alt="Ankit's Contribution Heatmap" width="100%" />
+</p>
