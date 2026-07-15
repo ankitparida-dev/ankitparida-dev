@@ -48,21 +48,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<!-- Stats will appear once you have public contributions -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitparida-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitparida-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitparida-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -71,24 +56,28 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📌 Projects
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankitparida-dev&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
-</p>
+### 🎬 MovieMate - Movie Discovery Platform
+> **Interactive Movie Discovery & Telemetry Platform**
+
+**Tech Stack:** `React.js` • `Node.js` • `Express.js` • `MongoDB` • `PostgreSQL` • `Prisma` • `Socket.io` • `Chart.js`
+
+- 🔗 [Live Application](https://movie-mate-seven-nu.vercel.app/)
+- 🔗 [Backend Engine](https://moviemate-l4ts.onrender.com/)
+- 🎯 Real-time comments and notifications via Socket.io
+- 📊 Visual analytics dashboard with Chart.js
+- 🔄 Dual-database architecture for optimal performance
 
 ---
 
-## 📌 Pinned Projects
+### 🚀 Upcoming Projects
 
-<p align="center">
-  <a href="https://github.com/ankitparida-dev/movie-mate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitparida-dev&repo=movie-mate&theme=tokyonight&hide_border=true" alt="MovieMate" width="45%" />
-  </a>
-  <a href="https://github.com/ankitparida-dev">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitparida-dev&repo=ankitparida-dev&theme=tokyonight&hide_border=true" alt="Profile" width="45%" />
-  </a>
-</p>
+| Project | Status | Tech Stack |
+|---------|--------|------------|
+| **E-Commerce Platform** | 📝 Planning | MERN Stack |
+| **Task Management System** | 📝 Planning | React + Node.js |
+| **Portfolio Website** | 📝 Planning | React + Tailwind |
 
 ---
 
@@ -109,6 +98,10 @@
   &nbsp;
   <a href="mailto:ankitparida386@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/ankitparida-dev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
