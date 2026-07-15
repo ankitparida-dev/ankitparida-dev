@@ -10,7 +10,7 @@ Full-Stack Software Engineer & Systems Student | **CGPA: 9.10**
 | :--- | :--- |
 | **Languages** | `Java (DSA Focus)` &nbsp;&bull;&nbsp; `JavaScript (ES6+)` &nbsp;&bull;&nbsp; `HTML5 / CSS3` |
 | **Backend & Data** | `Node.js` &nbsp;&bull;&nbsp; `Express.js` &nbsp;&bull;&nbsp; `MongoDB` &nbsp;&bull;&nbsp; `PostgreSQL` &nbsp;&bull;&nbsp; `Prisma ORM` |
-| **Frontend & UI** | `React.js` &nbsp;&bull;&nbsp; `Axios` &nbsp;&bull;&nbsp; `Tailwind CSS` &nbsp;&bull;&nbsp; `Chart.js` |
+| **Frontend & UI** | `React.js` &nbsp;&bull;&nbsp; `Axios` &nbsp;&bull;&nbsp; `Chart.js` |
 | **Ecosystem** | `Git / GitHub` &nbsp;&bull;&nbsp; `Socket.io` &nbsp;&bull;&nbsp; `Jest` &nbsp;&bull;&nbsp; `Vercel` &nbsp;&bull;&nbsp; `Render` |
 
 ---
@@ -23,8 +23,6 @@ Full-Stack Software Engineer & Systems Student | **CGPA: 9.10**
 *   **Dual-Database Strategy:** Engineered a mixed-storage pattern utilizing `MongoDB` for high-velocity user sessions alongside a rigid `PostgreSQL` relational database managed via `Prisma` to prevent metadata write bottlenecks.
 *   **Real-Time Data Layer:** Implemented persistent bi-directional communication channels using `Socket.io` to instantly broadcast user comments and notification pushes without HTTP layout pulling overhead.
 *   **Lightweight Telemetry Pipeline:** Reduced rendering engine calculations by designing pre-aggregated query routines that serve instantly readable historical usage metrics directly into `Chart.js` layouts.
-
----
 
 ---
 
