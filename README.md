@@ -19,12 +19,20 @@ Full-Stack Software Engineer & Systems Student | CGPA: 9.10
 
 ---
 
-## 📊 Automated Telemetry & Performance Metrics
+---
+
+## 📊 Performance Telemetry & Coding Profiles
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitparida-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ankit's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitparida-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Ankit's Top Languages" height="180px" />
+  <!-- Stable GitHub Activity Tracker -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitparida-dev&theme=tokyonight&area=true&hide_border=true" alt="Ankit's Coding Activity Graph" width="100%" />
 </p>
 
-### 📈 Daily Coding Activity Track
-[![Ankit's WakaTime Metrics](https://github-readme-stats.vercel.app/api/wakatime?username=ankitparida-dev&theme=tokyonight&hide_border=true)](https://github.com/ankitparida-dev)
+<p align="center">
+  <!-- Core Language Metrics Profile -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitparida-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Ankit's Top Languages" width="48%" align="left" />
+  
+  <!-- System Contribution Badges -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitparida-dev&theme=tokyonight" alt="Profile Details" width="48%" align="right" />
+</p>
+<br clear="both" />
