@@ -1,10 +1,27 @@
-# 👋 Hi, I'm Ankit Parida
+# 💫 Hi 👋, I'm ANKIT PARIDA 
+### Email Me 👉 ✉️ ankitparida386@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
-Full-Stack Software Engineer & Systems Student | **CGPA: 9.10**
+🔭 **I’m currently working on:** Complete system optimizations and production-ready applications.  
+🌱 **I’m currently learning:** High-performance distributed architectures and core data infrastructure layers.  
+📫 **How to reach me:** `ankitparida386@gmail.com`  
 
 ---
 
-### 🛠️ Technical Competencies
+## 🌐 Professional Network & Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/ankitparida087" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Pipeline" />
+  </a>
+  &nbsp;
+  <a href="mailto:ankitparida386@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Direct Email Link" />
+  </a>
+</p>
+
+---
+
+## 💻 Technical Competencies Matrix
 
 | Layer | Technologies & Frameworks |
 | :--- | :--- |
@@ -15,9 +32,9 @@ Full-Stack Software Engineer & Systems Student | **CGPA: 9.10**
 
 ---
 
-### 🎬 Featured Production Architecture: MovieMate
+## 🎬 Featured Production Architecture: MovieMate
 
-> **Interactive Movie Discovery & Telemetry Platform**
+> **Interactive Movie Discovery & Telemetry Platform**  
 > 🔗 [Live Application UI](https://movie-mate-seven-nu.vercel.app/) &nbsp;|&nbsp; 🔗 [Core Backend Engine](https://moviemate-l4ts.onrender.com/)
 
 *   **Dual-Database Strategy:** Engineered a mixed-storage pattern utilizing `MongoDB` for high-velocity user sessions alongside a rigid `PostgreSQL` relational database managed via `Prisma` to prevent metadata write bottlenecks.
@@ -26,7 +43,9 @@ Full-Stack Software Engineer & Systems Student | **CGPA: 9.10**
 
 ---
 
-### 📬 Connect With Me
-*   **Professional Space:** [LinkedIn](https://linkedin.com/in/ankitparida087)
-*   **Source Repository:** [GitHub Hub](https://github.com/ankitparida-dev)
-*   **Direct Pipeline:** `ankitparida386@gmail.com`
+## 📊 Core Engineering Telemetry & Track
+
+<!-- This component pulls your live commitment data safely inside a native layout container -->
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitparida-dev&theme=tokyonight&area=true&hide_border=true&height=260" alt="Ankit's Development Activity Graph" width="100%" />
+</p>
