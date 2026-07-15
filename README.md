@@ -43,9 +43,24 @@
 
 ---
 
-## 📊 Core Engineering Telemetry & Track
+## 📊 GitHub Stats & Metrics
 
-<!-- This component pulls your live commitment data safely inside a native layout container -->
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitparida-dev&theme=tokyonight&area=true&hide_border=true&height=260" alt="Ankit's Development Activity Graph" width="100%" />
+  <!-- 1. MAIN GITHUB STATS CARD -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitparida-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ankit's GitHub Stats" width="450px" />
+  <br />
+  <br />
+
+  <!-- 2. STREAK TRACKER CARD -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitparida-dev&theme=tokyonight&hide_border=true" alt="Ankit's GitHub Streak" width="450px" />
+  <br />
+  <br />
+
+  <!-- 3. ACTIVITY OVERVIEW AXIS GRAPH -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitparida-dev&theme=tokyonight" alt="Ankit's Activity Overview" width="450px" />
+  <br />
+  <br />
+
+  <!-- 4. MOST USED LANGUAGES BAR -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitparida-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=4" alt="Ankit's Most Used Languages" width="450px" />
 </p>
