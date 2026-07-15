@@ -71,14 +71,6 @@
 
 ---
 
-### 🚀 Upcoming Projects
-
-| Project | Status | Tech Stack |
-|---------|--------|------------|
-| **E-Commerce Platform** | 📝 Planning | MERN Stack |
-| **Task Management System** | 📝 Planning | React + Node.js |
-| **Portfolio Website** | 📝 Planning | React + Tailwind |
-
 ---
 
 ## 👀 Visitor Counter
