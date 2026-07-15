@@ -18,6 +18,10 @@
   <a href="mailto:ankitparida386@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  &nbsp;
+  <a href="https://github.com/ankitparida-dev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
@@ -44,38 +48,17 @@
 
 ---
 
-## 📊 GitHub Stats & Metrics
+## 📊 GitHub Stats
 
-<!-- Using multiple reliable stats services with fallback options -->
-
-### 📈 Activity Overview
+<!-- Stats will appear once you have public contributions -->
 
 <p align="center">
-  <!-- Primary Stats Card (with proper username) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitparida-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Ankit's GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitparida-dev&theme=tokyonight&hide_border=true" alt="Ankit's GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitparida-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitparida-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <!-- Activity Graph Alternative -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitparida-dev&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff" alt="Ankit's Activity Graph" width="100%" />
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitparida-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css" alt="Ankit's Most Used Languages" width="45%" />
-  
-  <!-- Profile Summary Cards - Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitparida-dev&theme=tokyonight" alt="Ankit's Activity Overview" width="45%" />
-</p>
-
-### 📊 Detailed Statistics
-
-<p align="center">
-  <!-- Detailed Stats Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankitparida-dev&theme=tokyonight" alt="Repos per Language" width="33%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankitparida-dev&theme=tokyonight" alt="Most Commit Language" width="33%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankitparida-dev&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="33%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitparida-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%" />
 </p>
 
 ---
@@ -83,8 +66,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <!-- Interactive Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitparida-dev&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff&hide_title=false" alt="Ankit Parida's Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitparida-dev&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff" alt="Contribution Graph" width="100%" />
 </p>
 
 ---
@@ -92,19 +74,19 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankitparida-dev&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="Ankit's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ankitparida-dev&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 📌 Pinned Repositories
+## 📌 Pinned Projects
 
 <p align="center">
   <a href="https://github.com/ankitparida-dev/movie-mate">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitparida-dev&repo=movie-mate&theme=tokyonight&hide_border=true" alt="MovieMate" width="45%" />
   </a>
-  <a href="https://github.com/ankitparida-dev/your-repo-here">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitparida-dev&repo=your-repo-here&theme=tokyonight&hide_border=true" alt="Your Repo" width="45%" />
+  <a href="https://github.com/ankitparida-dev">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitparida-dev&repo=ankitparida-dev&theme=tokyonight&hide_border=true" alt="Profile" width="45%" />
   </a>
 </p>
 
@@ -127,10 +109,6 @@
   &nbsp;
   <a href="mailto:ankitparida386@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/ankitparida-dev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
