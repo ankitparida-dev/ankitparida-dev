@@ -37,6 +37,32 @@
 
 ---
 
+## 🛠️ Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+---
+
 ## 🎬 Featured Production Architecture: MovieMate
 
 > **Interactive Movie Discovery & Telemetry Platform**  
@@ -45,16 +71,6 @@
 - **Dual-Database Strategy:** Engineered a mixed-storage pattern utilizing `MongoDB` for high-velocity user sessions alongside a rigid `PostgreSQL` relational database managed via `Prisma` to prevent metadata write bottlenecks.
 - **Real-Time Data Layer:** Implemented persistent bi-directional communication channels using `Socket.io` to instantly broadcast user comments and notification pushes without HTTP layout pulling overhead.
 - **Lightweight Telemetry Pipeline:** Reduced rendering engine calculations by designing pre-aggregated query routines that serve instantly readable historical usage metrics directly into `Chart.js` layouts.
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitparida-dev&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff" alt="Contribution Graph" width="100%" />
-</p>
-
-> **Note:** Contribution graph will populate once you start making public commits. Give it 24-48 hours to sync after your first push.
 
 ---
 
@@ -69,6 +85,8 @@
 - 🎯 Real-time comments and notifications via Socket.io
 - 📊 Visual analytics dashboard with Chart.js
 - 🔄 Dual-database architecture for optimal performance
+
+---
 
 ---
 
