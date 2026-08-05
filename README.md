@@ -54,12 +54,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitparida-dev&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff" alt="Contribution Graph" width="100%" />
 </p>
 
+> **Note:** Contribution graph will populate once you start making public commits. Give it 24-48 hours to sync after your first push.
+
 ---
 
 ## 📌 Projects
 
 ### 🎬 MovieMate - Movie Discovery Platform
-> **Interactive Movie Discovery & Telemetry Platform**
 
 **Tech Stack:** `React.js` • `Node.js` • `Express.js` • `MongoDB` • `PostgreSQL` • `Prisma` • `Socket.io` • `Chart.js`
 
@@ -68,8 +69,6 @@
 - 🎯 Real-time comments and notifications via Socket.io
 - 📊 Visual analytics dashboard with Chart.js
 - 🔄 Dual-database architecture for optimal performance
-
----
 
 ---
 
