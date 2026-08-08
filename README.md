@@ -37,29 +37,37 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitparida-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="50%" />
 </p>
 
-> **Note:** Stats will populate after you make public commits. Give it 24-48 hours to sync after your first push.
+> **📌 Note:** Stats will populate after you make public commits. Give it 24-48 hours to sync after your first push.
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ankitparida-dev&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Libraries
+### 📚 Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-### Databases
+### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Tools & Platforms
+### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
@@ -67,7 +75,7 @@
 
 ---
 
-## 🎬 Featured Production Architecture: MovieMate
+## 🎬 Featured Project: MovieMate
 
 > **Interactive Movie Discovery & Telemetry Platform**  
 > 🔗 [Live Application UI](https://movie-mate-seven-nu.vercel.app/) &nbsp;|&nbsp; 🔗 [Core Backend Engine](https://moviemate-l4ts.onrender.com/)
@@ -94,7 +102,7 @@
 
 ### 🖥️ Portfolio - Personal Website
 
-**Tech Stack:** `MERN Stack` •  • `Vercel`
+**Tech Stack:** `React.js` • `Tailwind CSS` • `Vercel`
 
 - 🔗 [Live Portfolio](https://port-folio-dusky-one.vercel.app/)
 - 🔗 [Source Code](https://github.com/ankitparida-dev/PortFolio.git)
