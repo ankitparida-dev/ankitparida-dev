@@ -26,14 +26,18 @@
 
 ---
 
-## 💻 Technical Competencies Matrix
+## 📊 GitHub Stats
 
-| Layer | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages** | `Java (DSA Focus)` &nbsp;•&nbsp; `JavaScript (ES6+)` &nbsp;•&nbsp; `HTML5 / CSS3` |
-| **Backend & Data** | `Node.js` &nbsp;•&nbsp; `Express.js` &nbsp;•&nbsp; `MongoDB` &nbsp;•&nbsp; `PostgreSQL` &nbsp;•&nbsp; `Prisma ORM` |
-| **Frontend & UI** | `React.js` &nbsp;•&nbsp; `Axios` &nbsp;•&nbsp; `Chart.js` |
-| **Ecosystem** | `Git / GitHub` &nbsp;•&nbsp; `Socket.io` &nbsp;•&nbsp; `Jest` &nbsp;•&nbsp; `Vercel` &nbsp;•&nbsp; `Render` |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitparida-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitparida-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitparida-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="50%" />
+</p>
+
+> **Note:** Stats will populate after you make public commits. Give it 24-48 hours to sync after your first push.
 
 ---
 
@@ -87,6 +91,16 @@
 - 🔄 Dual-database architecture for optimal performance
 
 ---
+
+### 🖥️ Portfolio - Personal Website
+
+**Tech Stack:** `MERN Stack` •  • `Vercel`
+
+- 🔗 [Live Portfolio](https://port-folio-dusky-one.vercel.app/)
+- 🔗 [Source Code](https://github.com/ankitparida-dev/PortFolio.git)
+- 🎨 Modern, responsive design
+- ⚡ Optimized performance
+- 📱 Mobile-first approach
 
 ---
 
