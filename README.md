@@ -26,26 +26,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contribution Snake Game
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitparida-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitparida-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitparida-dev/ankitparida-dev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankitparida-dev/ankitparida-dev/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ankitparida-dev/ankitparida-dev/output/github-contribution-grid-snake.svg" />
+</picture>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitparida-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="50%" />
-</p>
-
-> **📌 Note:** Stats will populate after you make public commits. Give it 24-48 hours to sync after your first push.
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankitparida-dev&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
-</p>
+> **📌 Note:** The snake will start eating your contributions once you start making public commits!
 
 ---
 
