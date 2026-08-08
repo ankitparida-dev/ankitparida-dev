@@ -25,17 +25,6 @@
 </p>
 
 ---
-
-## 🐍 Contribution Snake Game
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitparida-dev/ankitparida-dev/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankitparida-dev/ankitparida-dev/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ankitparida-dev/ankitparida-dev/output/github-contribution-grid-snake.svg" />
-</picture>
-
-> **📌 Note:** The snake will start eating your contributions once you start making public commits!
-
 ---
 
 ## 🛠️ Tech Stack
